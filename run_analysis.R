@@ -1,8 +1,10 @@
+# Smartphone motion data from multiple test subjects
+# Function to read in multiple files, combine, summarize, and export to file
 run_analysis <- function() {
         require(plyr)
         require(dplyr)
         
-        # Read in all data fils into data frames:
+        # Read in all data files into data frames:
         ytest <- read.table("y_test.txt", stringsAsFactors = FALSE)
         ytrain <- read.table("y_train.txt", stringsAsFactors = FALSE)
         xtest <- read.table("x_test.txt", stringsAsFactors = FALSE)
