@@ -45,7 +45,7 @@ This dataset (tidy_data.txt) was produced in the following manner:
 
 
 Reading the file in:
-===================+
+====================
 The file can be read into R using the following command:
 > data <- read.table("./tidy_data.txt", header = TRUE)
 
