@@ -1,3 +1,5 @@
+*** Best viewed in "RAW" mode directly on Github ***
+
 CODEBOOK - Averaged Human Activity Recongnition Using Smartphones Data Set
 
 REFERENCE: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#
